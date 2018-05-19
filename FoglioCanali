@@ -1,0 +1,7 @@
+Input:
+telecamera
+
+Output:
+AO0 muovo laser angolo theta
+AO1 muovo laser angolo phy
+DO0 sparo
